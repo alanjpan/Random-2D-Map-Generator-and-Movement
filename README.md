@@ -1,7 +1,7 @@
 # Random-2D-Map-Generator-and-Movement
 program framework for random 2D map generation and movement
 
-@author: Alan Jerry Pan, CPA, CSc
+@author: Alan Jerry Pan, CPA, CSc student
 @affiliation: Shanghai Jiaotong University
 
 Program framework for random 2D map generation and movement.
